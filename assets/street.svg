@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" role="img" aria-label="Saved street scene visual evidence">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#cfe5ef"/><stop offset="1" stop-color="#eef4f3"/></linearGradient></defs>
+<rect width="760" height="500" fill="url(#sky)"/>
+<rect y="285" width="760" height="215" fill="#6d7274"/>
+<rect x="0" y="105" width="255" height="185" fill="#b75f48"/><rect x="255" y="75" width="230" height="215" fill="#8d4d3e"/><rect x="485" y="90" width="275" height="200" fill="#7d5847"/>
+<g fill="#bfd2d7"><rect x="25" y="140" width="55" height="70"/><rect x="105" y="140" width="55" height="70"/><rect x="285" y="115" width="55" height="70"/><rect x="365" y="115" width="55" height="70"/><rect x="535" y="130" width="55" height="70"/><rect x="620" y="130" width="55" height="70"/></g>
+<g><ellipse cx="390" cy="350" rx="180" ry="55" fill="#77a8b7" stroke="#365868" stroke-width="5"/><rect x="285" y="300" width="210" height="70" rx="18" fill="#86b6c4"/><circle cx="295" cy="394" r="34" fill="#1d2a35"/><circle cx="500" cy="394" r="34" fill="#1d2a35"/><circle cx="295" cy="394" r="17" fill="#bbc3c8"/><circle cx="500" cy="394" r="17" fill="#bbc3c8"/></g>
+<g fill="none" stroke="#0db6c9" stroke-width="3"><rect x="260" y="276" width="310" height="145"/><rect x="245" y="350" width="85" height="85"/><rect x="455" y="350" width="90" height="85"/><rect x="280" y="110" width="130" height="155"/><rect x="420" y="135" width="120" height="130"/></g>
+<g font-family="Arial,sans-serif" font-size="13" font-weight="700"><g fill="#07384f"><rect x="260" y="262" width="70" height="20" rx="3"/><text x="266" y="277" fill="white">#0 car</text></g><g fill="#07384f"><rect x="240" y="334" width="82" height="20" rx="3"/><text x="246" y="349" fill="white">#17 tire</text></g><g fill="#07384f"><rect x="278" y="94" width="100" height="20" rx="3"/><text x="284" y="109" fill="white">#1 building</text></g><g fill="#07384f"><rect x="420" y="119" width="92" height="20" rx="3"/><text x="426" y="134" fill="white">#11 window</text></g></g>
+</svg>
